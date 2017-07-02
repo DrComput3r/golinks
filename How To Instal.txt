@@ -1,0 +1,20 @@
+1. Create new page with the title : "Convert" important!
+2. Put the convert widget code on html mode and save it.
+3. Find this url URLhalaman
+4. Replace all to url: URLhalaman  with your own url! ex: https://yoururl.blogspot.com/p/convert.html
+5.Upload file  https://github.com/    Convert to  cdn.rawgit.com
+6.Replace all Yourjavascript 
+
+ Enjoy!
+
+
+I would be very grateful if you did not remove the credit link. 
+
+makasih kepada 
+Created : Antoncabon
+by tutorial kitakitatau
+
+
+
+#### For more information please visit: http://www.antoncabon.us
+                                        

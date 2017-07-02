@@ -1,0 +1,8 @@
+Tambahkan di atas kode </body>
+
+<script type='text/javascript'>  
+//<![CDATA[  
+protected_links = "YOURDOMAIN.COM, SUB.DOMAIN.COM,AnotherDomain.com,youtube.com,facebook.com,google.com"; 
+(function() { var sl = document.createElement('script'); sl.type = 'text/javascript'; sl.async = true; sl.src = 'Yourjavascript'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(sl); })(); 
+//]]> 
+</script>
